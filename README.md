@@ -25,7 +25,7 @@ A **Minor Java Project** for managing employee data with a graphical user interf
 
 ## 🧱 Project Structure
 
-EmployeeManagementSystem/
+'''EmployeeManagementSystem/
 │
 ├── employee/
 │ └── management/
@@ -46,7 +46,7 @@ EmployeeManagementSystem/
 │ └── employee_db.sql # SQL schema and initial data
 
 ├── lib/
-│ └── mysql-connector-java.jar # MySQL JDBC driver
+│ └── mysql-connector-java.jar # MySQL JDBC driver'''
 
 Certainly! Here's a clear and professional workflow diagram (text-based) and description that outlines the flow of your Java Employee Management System — starting from the splash screen, going through login, and continuing to the main application.
 
